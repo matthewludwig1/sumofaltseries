@@ -1,7 +1,7 @@
 /*
     Matt Ludwig
     2019-09-11
-    This program 
+    This program computes the value of the series: L = 4 - (4/3) + (4/5) - (4/7) ...
  */
 package alternatingsum;
 
