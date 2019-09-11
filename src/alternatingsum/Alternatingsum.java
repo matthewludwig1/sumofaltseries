@@ -7,7 +7,7 @@ package alternatingsum;
 
 /**
  *
- * @author User
+ * @author mattludwig6@gmail.com
  */
 public class Alternatingsum {
 
